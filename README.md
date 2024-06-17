@@ -225,6 +225,8 @@ Right-click a file and select View File History to view your history
 
 Integrating Git with VS Code enable the easy management of version control directly within the editor, facilitating easier tracking, collaboration, and codebase maintenance.
 
+References
+Microsoft Lean. (2024). Install and configure visual studio code for go development. Microsoft Learn: Build skills that open doors in your career. https://learn.microsoft.com/en-us/azure/developer/go/configure-visual-studio-code 
 
  Submission Guidelines:
 - Your answers should be well-structured, concise, and to the point.
